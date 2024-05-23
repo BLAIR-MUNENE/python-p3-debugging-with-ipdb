@@ -5,7 +5,7 @@ import ipdb
 def plus_two(num):
  result = sum([num,2])
  print(result)
- return(result)
+ return result
 
 
 
