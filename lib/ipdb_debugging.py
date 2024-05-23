@@ -3,10 +3,11 @@
 import ipdb
 
 def plus_two(num):
-    sum = sum([num,2])
-    print(sum)
-    return sum 
-    
+ result = sum([num,2])
+ print(result)
+ return(result)
+
+
 
    
 
